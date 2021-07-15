@@ -1,0 +1,14 @@
+.yqq, td, th
+	{
+	border:solid green;
+	}
+	th
+	{
+	background-color:pink;
+	color:white;
+	}
+
+img {
+            position: absolute;
+            top: 2px;
+    }
